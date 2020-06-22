@@ -1,0 +1,20 @@
+#header{
+	font-weight: bolder;
+	color: #000000;
+	text-align: center ;
+	height: 100%;
+	font-family: Luminari, fantasy;
+	font-size:300%;
+	background: url('../img/143-1.jpg');
+}
+#container{
+	background-color: #000000;
+	margin: auto auto;
+	width: 75%; 
+}
+#form{
+	color: #ffe1d3;
+	font-family: Luminari, fantasy;
+	text-align: center;
+	font-size:180%;
+}
